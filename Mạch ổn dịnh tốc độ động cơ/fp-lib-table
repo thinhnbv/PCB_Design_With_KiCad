@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Digikey")(type "KiCad")(uri "C:/Users/nguye/OneDrive/Tài liệu/KiCad Tools/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+)

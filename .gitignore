@@ -1,0 +1,12 @@
+# KiCad autosaves and backups
+*.bak
+*-bak
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+*-save.kicad_sch
+
+# KiCad caches
+fp-info-cache
+*.net
