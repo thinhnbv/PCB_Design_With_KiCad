@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6dc87a8f-e975-4543-bd1d-e689d6bd04be")
+	(paper "A4")
+	(title_block
+		(title "Digital Alarm Clock")
+		(date "2026-05-15")
+		(company "None")
+		(comment 1 "CDP301 Final Project")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
